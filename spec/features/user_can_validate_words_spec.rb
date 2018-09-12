@@ -26,8 +26,8 @@ describe 'visiting /' do
 
       click_on 'Validate Word'
 
-      expect(current_path).to eq('/words')
-      expect(page).to have_content("'foxes' is a valid word and its root form is 'fox'.")
+      expect(current_path).to eq('/validation')
+      expect(page).to have_content("foxes is a valid word and its root form is fox.")
     end
     it 'does not validate invalid words' do
       visit '/'
@@ -36,8 +36,8 @@ describe 'visiting /' do
 
       click_on 'Validate Word'
 
-      expect(current_path).to eq('/words')
-      expect(page).to have_content("'foxez' is not a valid word.")
+      expect(current_path).to eq('/validation')
+      expect(page).to have_content("foxez is not a valid word.")
     end
   end
 end
