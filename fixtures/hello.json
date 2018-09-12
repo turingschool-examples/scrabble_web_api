@@ -1,0 +1,69 @@
+{
+    "metadata": {
+        "provider": "Oxford University Press"
+    },
+    "results": [
+        {
+            "id": "hello",
+            "language": "en",
+            "lexicalEntries": [
+                {
+                    "grammaticalFeatures": [
+                        {
+                            "text": "Present",
+                            "type": "Tense"
+                        },
+                        {
+                            "text": "Intransitive",
+                            "type": "Subcategorization"
+                        }
+                    ],
+                    "inflectionOf": [
+                        {
+                            "id": "hello",
+                            "text": "hello"
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Verb",
+                    "text": "hello"
+                },
+                {
+                    "grammaticalFeatures": [
+                        {
+                            "text": "Singular",
+                            "type": "Number"
+                        }
+                    ],
+                    "inflectionOf": [
+                        {
+                            "id": "hello",
+                            "text": "hello"
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Noun",
+                    "text": "hello"
+                },
+                {
+                    "grammaticalFeatures": [
+                        {
+                            "text": "Exclamative",
+                            "type": "Sentence Modality"
+                        }
+                    ],
+                    "inflectionOf": [
+                        {
+                            "id": "hello",
+                            "text": "hello"
+                        }
+                    ],
+                    "language": "en",
+                    "lexicalCategory": "Interjection",
+                    "text": "hello"
+                }
+            ],
+            "word": "hello"
+        }
+    ]
+}
