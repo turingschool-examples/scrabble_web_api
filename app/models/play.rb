@@ -15,5 +15,8 @@ class Play < ApplicationRecord
   private
 
     def score_word
+      self.score = word.upcase.chars.inject(0) do |sum, letter|
+        sum += letter_scores[letter]
+      end
     end
 end
