@@ -1,0 +1,205 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/lucasdevelopment/turing/3module/scrabble_web_api/app/helpers/application_helper.rb": [
+        1,
+        null
+      ],
+      "/Users/lucasdevelopment/turing/3module/scrabble_web_api/app/presenters/validation_presenter.rb": [
+        1,
+        null,
+        1,
+        2,
+        null,
+        null,
+        1,
+        2,
+        1,
+        null,
+        1,
+        null,
+        null,
+        null,
+        1,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        1,
+        null,
+        null,
+        null
+      ],
+      "/Users/lucasdevelopment/turing/3module/scrabble_web_api/app/mailers/application_mailer.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/lucasdevelopment/turing/3module/scrabble_web_api/app/models/play.rb": [
+        0,
+        0,
+        0,
+        null,
+        0,
+        null,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        null,
+        0,
+        null,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/lucasdevelopment/turing/3module/scrabble_web_api/app/models/game.rb": [
+        0,
+        0,
+        0,
+        null,
+        0,
+        0
+      ],
+      "/Users/lucasdevelopment/turing/3module/scrabble_web_api/app/models/application_record.rb": [
+        0,
+        0,
+        0
+      ],
+      "/Users/lucasdevelopment/turing/3module/scrabble_web_api/app/models/user.rb": [
+        0,
+        0,
+        0
+      ],
+      "/Users/lucasdevelopment/turing/3module/scrabble_web_api/app/serializers/game_serializer.rb": [
+        0,
+        0,
+        null,
+        0,
+        0,
+        0,
+        null,
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/lucasdevelopment/turing/3module/scrabble_web_api/app/serializers/player_serializer.rb": [
+        0,
+        0,
+        null,
+        0,
+        0,
+        0,
+        null,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/lucasdevelopment/turing/3module/scrabble_web_api/app/jobs/application_job.rb": [
+        0,
+        0
+      ],
+      "/Users/lucasdevelopment/turing/3module/scrabble_web_api/app/controllers/application_controller.rb": [
+        0,
+        0,
+        0
+      ],
+      "/Users/lucasdevelopment/turing/3module/scrabble_web_api/app/controllers/words_controller.rb": [
+        0,
+        null,
+        0,
+        0,
+        0,
+        0,
+        null,
+        null,
+        0
+      ],
+      "/Users/lucasdevelopment/turing/3module/scrabble_web_api/app/controllers/welcome_controller.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/lucasdevelopment/turing/3module/scrabble_web_api/app/controllers/validation_controller.rb": [
+        0,
+        null,
+        0,
+        0,
+        0,
+        0,
+        null,
+        0
+      ],
+      "/Users/lucasdevelopment/turing/3module/scrabble_web_api/app/controllers/api/v1/games_controller.rb": [
+        0,
+        null,
+        0,
+        0,
+        0,
+        0,
+        null,
+        0
+      ],
+      "/Users/lucasdevelopment/turing/3module/scrabble_web_api/app/services/validation_service.rb": [
+        0,
+        null,
+        0,
+        0,
+        0,
+        null,
+        0,
+        0,
+        0,
+        null,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        null,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        null,
+        0
+      ],
+      "/Users/lucasdevelopment/turing/3module/scrabble_web_api/app/channels/application_cable/connection.rb": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "/Users/lucasdevelopment/turing/3module/scrabble_web_api/app/channels/application_cable/channel.rb": [
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "timestamp": 1536771947
+  }
+}

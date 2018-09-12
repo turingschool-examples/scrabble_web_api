@@ -24,6 +24,7 @@ group :development, :test do
   gem 'capybara'
   gem 'factory_bot_rails'
   gem 'webmock'
+  gem 'simplecov'
 end
 
 group :development do
