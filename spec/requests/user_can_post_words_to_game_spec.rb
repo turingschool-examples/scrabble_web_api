@@ -13,7 +13,7 @@ describe 'POST /api/v1/games/1/plays' do
     sal.plays.create(game: game, word: "no", score: 2)
     expected = { 'game_id' => game.id, 'scores' => [{'user_id' => josh.id, 'score' => 17}, {'user_id' => sal.id, 'score' => 16}]}
 
-    post '/api/v1/games/1/plays?user_id=1&word=at'
+    post "/api/v1/games/#{game.id}/plays?user_id=1&word=at"
 
     expect(response.status).to eq(201)
 
