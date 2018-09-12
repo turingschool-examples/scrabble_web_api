@@ -5,31 +5,44 @@
         1,
         null
       ],
-      "/Users/lucasdevelopment/turing/3module/scrabble_web_api/app/presenters/validation_presenter.rb": [
+      "/Users/lucasdevelopment/turing/3module/scrabble_web_api/app/models/user.rb": [
         1,
-        null,
         1,
-        2,
-        null,
-        null,
+        null
+      ],
+      "/Users/lucasdevelopment/turing/3module/scrabble_web_api/app/models/application_record.rb": [
         1,
-        2,
         1,
-        null,
-        1,
-        null,
-        null,
-        null,
-        1,
-        null,
+        null
+      ],
+      "/Users/lucasdevelopment/turing/3module/scrabble_web_api/app/models/game.rb": [
         1,
         1,
         1,
         null,
+        1,
+        null
+      ],
+      "/Users/lucasdevelopment/turing/3module/scrabble_web_api/app/models/play.rb": [
+        1,
+        1,
+        1,
         null,
         1,
+        null,
         1,
+        null,
+        null,
+        null,
+        null,
+        12,
+        null,
+        null,
         1,
+        null,
+        1,
+        4,
+        12,
         null,
         null,
         null
@@ -40,7 +53,17 @@
         0,
         0
       ],
-      "/Users/lucasdevelopment/turing/3module/scrabble_web_api/app/models/play.rb": [
+      "/Users/lucasdevelopment/turing/3module/scrabble_web_api/app/presenters/validation_presenter.rb": [
+        0,
+        null,
+        0,
+        0,
+        0,
+        null,
+        0,
+        0,
+        0,
+        0,
         0,
         0,
         0,
@@ -51,35 +74,12 @@
         0,
         0,
         0,
-        0,
-        0,
-        0,
-        null,
-        0,
         null,
         0,
         0,
         0,
         0,
-        0,
-        0
-      ],
-      "/Users/lucasdevelopment/turing/3module/scrabble_web_api/app/models/game.rb": [
-        0,
-        0,
-        0,
         null,
-        0,
-        0
-      ],
-      "/Users/lucasdevelopment/turing/3module/scrabble_web_api/app/models/application_record.rb": [
-        0,
-        0,
-        0
-      ],
-      "/Users/lucasdevelopment/turing/3module/scrabble_web_api/app/models/user.rb": [
-        0,
-        0,
         0
       ],
       "/Users/lucasdevelopment/turing/3module/scrabble_web_api/app/serializers/game_serializer.rb": [
@@ -200,6 +200,6 @@
         0
       ]
     },
-    "timestamp": 1536771947
+    "timestamp": 1536772851
   }
 }
