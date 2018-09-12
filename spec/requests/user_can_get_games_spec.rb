@@ -11,9 +11,9 @@ describe "GET /api/v1/games/1" do
     josh.plays.create(game: game, word: "zoo", score: 12)
     sal.plays.create(game: game, word: "josh", score: 14)
     sal.plays.create(game: game, word: "no", score: 2)
-    expected = { 'game_id': game.id, 'scores': [{'user_id': josh.id, 'score': 15}, {'user_id': sal.id, 'score': 16}]}
+    expected = { 'game_id' => game.id, 'scores' => [{'user_id' => josh.id, 'score' => 15}, {'user_id' => sal.id, 'score' => 16}]}
     get "/api/v1/games/#{game.id}"
 
-    expect(page).to have_content(expected)
+    expect(JSON.parse(response.body)).to eq(expected)
   end
 end
